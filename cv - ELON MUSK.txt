@@ -1,0 +1,31 @@
+<body>
+<h1>Elon Mask </h1>
+<p> <b> Entrepreneur, Engineer & Innovator </b></p>
+<p><b> Location:</b> Austin, Texas, USA </p>
+<p> <b> Email: </b> elon@example.com </p> 
+<p><b> Phone: </b> Phone: +1 (XXX) XXX-XXXX </p>
+</body>
+<hr />
+<h2> <b> PROFESSIONAL SUMMARY</b> </h2>
+<hr>
+<p> Visionary entrepreneur and technology innovator with extensive experience in aerospace, automotive, energy, 
+        and artificial intelligence industries. Proven track record of founding and leading multiple billion-dollar 
+        companies. Passionate about advancing sustainable energy and making humanity a multi-planetary species.
+    </p>
+     <h2>WORK EXPERIENCE</h2>
+    <hr>
+
+    <h3>SpaceX (Space Exploration Technologies Corp.)</h3>
+    <p><strong>Chief Executive Officer & Chief Technology Officer</strong></p>
+    <p><em>May 2002 - Present</em></p>
+
+    <ul>
+        <li>Founded and led SpaceX with the mission to reduce space transportation costs</li>
+        <li>Developed <strong>Falcon 1, Falcon 9, Falcon Heavy</strong>, and <strong>Starship</strong> rocket systems</li>
+        <li>Achieved first privately funded spacecraft to reach orbit</li>
+        <li>Pioneered reusable rocket technology, significantly reducing launch costs</li>
+        <li>Secured contracts with NASA for cargo and crew missions to the ISS</li>
+        <li>Developing Starship for Mars colonization missions</li>
+    </ul>
+
+    <h3>Tesla, Inc.</h3>
